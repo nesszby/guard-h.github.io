@@ -120,7 +120,6 @@ CCTV-风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 凤凰中文 10M,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰资讯 10M,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰香港 10M,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
-凤凰香港,http://livetv.dnsfor.me:80/channel.16.m3u8
 无线翡翠 1080,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
 无线新闻 1080,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 无线明珠 1080,https://cdn.hkdtmb.com/hls/84/index.m3u8
@@ -333,17 +332,6 @@ BEST超级体育,http://27.148.240.138/PLTV/88888888/224/3221227044/1.m3u8
 幸福彩-,http://27.148.240.138/PLTV/88888888/224/3221226894/1.m3u8
 七彩戏剧-,http://27.148.240.138/PLTV/88888888/224/3221226913/1.m3u8
 金色频道-,http://27.148.240.138/PLTV/88888888/224/3221226923/1.m3u8
-Best电影1,http://27.148.240.138/PLTV/88888888/224/3221226972/1.m3u8
-Best电影2,http://27.148.240.138/PLTV/88888888/224/3221226917/1.m3u8
-Best电视剧1,http://27.148.240.138/PLTV/88888888/224/3221226974/1.m3u8
-Best电视剧2,http://27.148.240.138/PLTV/88888888/224/3221226875/1.m3u8
-Best电视剧3,http://27.148.240.138/PLTV/88888888/224/3221226902/1.m3u8
-Best联众,http://27.148.240.138/PLTV/88888888/224/3221226821/1.m3u8
-BEST综艺,http://27.148.240.138/PLTV/88888888/224/3221226906/1.m3u8
-BEST养生,http://27.148.240.138/PLTV/88888888/224/3221226939/1.m3u8
-BEST动画1,http://27.148.240.138/PLTV/88888888/224/3221226910/1.m3u8
-BEST动画2,http://27.148.240.138/PLTV/88888888/224/3221226968/1.m3u8
-BEST动画3,http://27.148.240.138/PLTV/88888888/224/3221226931/1.m3u8
 金鹰卡通-,http://27.148.240.138/PLTV/88888888/224/3221226726/1.m3u8
 哈哈炫动-,http://27.148.240.138/PLTV/88888888/224/3221226988/1.m3u8
 嘉佳卡通-,http://27.148.240.138/PLTV/88888888/224/3221226890/1.m3u8
@@ -502,46 +490,3 @@ TVBS,p2p://147.135.39.171:9906/5f2c407d000f150b6c2346e221a0451b
 纬来体育台,p2p://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4
 ELEVEN体育1台,p2p://147.135.39.171:9906/60575f0c000365c4a2b19fa770033e71
 FOX,p2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5
-
-福利,#genre#
-俄罗斯成人5台,http://live.redtraffic.xyz/pov.m3u8?fluxuslust.m3u8
-俄罗斯成人6台,http://live.redtraffic.xyz/latina.m3u8?fluxuslust.m3u8
-俄罗斯成人7台,http://live.redtraffic.xyz/fetish.m3u8?fluxuslust.m3u8
-俄罗斯成人8台,http://live.redtraffic.xyz/blowjob.m3u8?fluxuslust.m3u8
-俄罗斯成人9台,http://live.redtraffic.xyz/bigdick.m3u8?fluxuslust.m3u8
-松视1欧美版,http://live.redtraffic.xyz:80/fetish.m3u8
-松视2欧美版,http://live.redtraffic.xyz:80/interracial.m3u8
-松视3欧美版,http://live.redtraffic.xyz:80/bigtits.m3u8
-松视4欧美版,http://live.redtraffic.xyz:80/bigdick.m3u8
-潘多拉欧美版,http://live.redtraffic.xyz:80/pornstar.m3u8
-香蕉台欧美版,http://live.redtraffic.xyz:80/milf.m3u8
-K频道欧美版,http://live.redtraffic.xyz:80/threesome.m3u8
-惊艳台欧美版,http://live.redtraffic.xyz:80/cuckold.m3u8
-HOT欧美版,http://live.redtraffic.xyz:80/hardcore.m3u8
-粉红台欧美版,http://live.redtraffic.xyz:80/teen.m3u8
-玩美台欧美版,http://live.redtraffic.xyz:80/pov.m3u8
-二本道欧美版,http://live.redtraffic.xyz:80/blowjob.m3u8
-Live Cams,http://cdn.adultiptv.net/livecams.m3u8
-Anal,http://cdn.adultiptv.net/anal.m3u8
-Big Ass,http://cdn.adultiptv.net/bigass.m3u8
-Big Dick,http://cdn.adultiptv.net/bigdick.m3u8
-Big Tits,http://cdn.adultiptv.net/bigtits.m3u8
-Blonde,http://cdn.adultiptv.net/blonde.m3u8
-Blowjob,http://cdn.adultiptv.net/blowjob.m3u8
-Brunette,http://cdn.adultiptv.net/brunette.m3u8
-Compilation,http://cdn.adultiptv.net/compilation.m3u8
-Cuckold,http://cdn.adultiptv.net/cuckold.m3u8
-Fetish,http://cdn.adultiptv.net/fetish.m3u8
-Gangbang,http://cdn.adultiptv.net/gangbang.m3u8
-Gay,http://cdn.adultiptv.net/gay.m3u8
-Hardcore,http://cdn.adultiptv.net/hardcore.m3u8
-Interracial,http://cdn.adultiptv.net/interracial.m3u8
-Latina,http://cdn.adultiptv.net/latina.m3u8
-Lesbian,http://cdn.adultiptv.net/lesbian.m3u8
-MILF,http://cdn.adultiptv.net/milf.m3u8
-Pornstar,http://cdn.adultiptv.net/pornstar.m3u8
-POV,http://cdn.adultiptv.net/pov.m3u8
-Rough,http://cdn.adultiptv.net/rough.m3u8
-Russian,http://cdn.adultiptv.net/russian.m3u8
-Teen,http://cdn.adultiptv.net/teen.m3u8
-Threesome,http://cdn.adultiptv.net/threesome.m3u8
