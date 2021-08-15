@@ -116,12 +116,10 @@ CCTV-风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 南平-1,http://112.50.243.8/PLTV/88888888/224/3221227066/1.m3u8#http://live3.setvn.com:9098/live/np1_1200.m3u8#http://37531.hlsplay.aodianyun.com/tv_radio_37531/tv_channel_700.m3u8#rtmp://37531.hlsplay.aodianyun.com:1935/tv_radio_37531/tv_channel_700
 南平-2,http://112.50.243.8/PLTV/88888888/224/3221226956/1.m3u8#http://live3.setvn.com:9098/live/np2_1200.m3u8
 
-港澳,#genre#
+港台,#genre#
 凤凰中文 10M,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰资讯 10M,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1
 凤凰香港 10M,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8$JS1080P#http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
-
-台湾,#genre#
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#rtmp://59.124.75.153/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#rtmp://59.124.75.153/sat/tv071
 中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#rtmp://59.124.75.153/sat/tv091
