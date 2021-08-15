@@ -122,9 +122,9 @@ CCTV-电视指南,
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8#http://live3.setvn.com:9098/live/fz2_1200.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8#http://live3.setvn.com:9098/live/fz3_1200.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8#http://live3.setvn.com:9098/live/fz4.m3u8
-厦门-1,
-厦门-2,
-厦门-3,
+厦门-1,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
+厦门-2,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
+厦门-3,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
 泉州-1,
 泉州-2,
 泉州-3,
