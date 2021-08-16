@@ -84,7 +84,7 @@ SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3
 SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
 SiTV游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 SiTV生活时尚,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
-北京纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
+冬奥纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 纪实人文 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 金鹰纪实 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
 CCTV-中 学 生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
@@ -285,16 +285,12 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
-NOW新闻,p2p://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts 
-民视,p2p://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts 
-民视新闻,p2p://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts 
-台视,p2p://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts 
-中视,p2p://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts 
-华视,p2p://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts 
-台湾|中视高清,P2p://198.255.74.57:12196/5f0601cd0008eb0db978c6d5b0fdabde.ts
-台湾|中视新闻台,P2p://198.255.74.57:12196/5f0601cd000811f5b978c69d42b61f5b.ts
-台湾|公视高清,P2p://198.255.74.57:12196/5f0601cd00073caab978c667d5b966a8.ts
-台湾|民视台湾台,P2p://198.255.74.57:12196/5f0601cd0006631eb978c62fffc0f54c.ts
-台湾|民视新闻台,P2p://198.255.74.57:12196/5f0601cd00058e1db978c5f825ee5187.ts
-台湾|民视,P2p://198.255.74.57:12196/5f0601cd0004ae78b978c5bf7a4f9d29.ts
-台湾|台视高清,P2p://198.255.74.57:12196/5f0601cd0003d88eb978c588df06795b.ts
+NOW新闻,mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts 
+民视,mitv://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts 
+民视新闻,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts 
+台视,mitv://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts 
+中视,mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts 
+华视,mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts 
+台湾|中视高清,mitv://198.255.74.57:12196/5f0601cd0008eb0db978c6d5b0fdabde.ts
+台湾|中视新闻台,mitv://198.255.74.57:12196/5f0601cd000811f5b978c69d42b61f5b.ts
+台湾|公视高清,mitv://198.255.74.57:12196/5f0601cd00073caab978c667d5b966a8.ts
