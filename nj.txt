@@ -252,14 +252,14 @@ FS1,rtmp://161.202.204.248:1935/sat/us031
 韩国·SBS综艺,https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8#http://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/playlist.m3u8
 新马·Astro BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 新马·Astro Citra,http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8
-新马·Astro全佳台,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-新马·Astro双星台,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+新马·Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+新马·Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 新马·Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 迪拜·赛马,http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-蒙古·MNB综合台,http://103.14.38.107:1935/live/mnb.stream/playlist.m3u8
-蒙古·MNB新闻台,http://103.14.38.107:1935/live/mn2.stream/playlist.m3u8
+蒙古·MNB综合,http://103.14.38.107:1935/live/mnb.stream/playlist.m3u8
+蒙古·MNB新闻,http://103.14.38.107:1935/live/mn2.stream/playlist.m3u8
 泰国·TVB电视剧,https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
-印尼·TIC印尼频道,https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
+印尼·TIC印尼频,https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 测试,#genre#
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
