@@ -172,7 +172,8 @@ RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#h
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://livetv.dnsfor.me:80/channel.2.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 RTHK直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
-香港开电视,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+香港开电视,https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8
+国际财经,https://cdn.hkdtmb.com/hls/76/index.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#rtmp://59.124.75.153/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#rtmp://59.124.75.153/sat/tv071
@@ -284,27 +285,3 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
-BBC,vjms://61.216.1.24:8500:3502/live/cid=418
-NHK G,vjms://61.216.1.24:8500:3502/live/cid=309
-CNN,vjms://61.216.1.24:8500:3502/live/cid=428
-CNBC(CN),vjms://61.216.1.24:8500:3502/live/cid=98
-HBO,vjms://61.216.1.24:8500:3502/live/cid=261
-松视1台,vjms://61.216.1.24:8500:3502/live/cid=262
-松视2台,vjms://61.216.1.24:8500:3502/live/cid=267
-松视3台,vjms://61.216.1.24:8500:3502/live/cid=268
-国家地理野生,vjms://61.216.1.24:8500:3502/live/cid=263
-博斯高球,vjms://61.216.1.24:8500:3502/live/cid=265
-ELTA体育1台,vjms://61.216.1.24:8500:3502/live/cid=266
-BBC,vjms://61.216.1.24:8500/live/cid=418
-松视3台,vjms://61.216.1.24:8500/live/cid=268
-公视,vjms://58.215.133.161:8500:3502/live/cid=236
-民视(HD),vjms://58.215.133.161:8500:3502/live/cid=450
-TVBS HD,vjms://58.215.133.161:8500:3502/live/cid=349
-三立都会台,vjms://58.215.133.161:8500:3502/live/cid=226
-BBC,vjms://58.215.133.161:8500:3502/live/cid=418
-CNN,vjms://58.215.133.161:8500:3502/live/cid=428
-CNBC,vjms://58.215.133.161:8500:3502/live/cid=98
-三立新闻HD,vjms://58.215.133.161:8500:3502/live/cid=352
-非凡新闻HD,vjms://58.215.133.161:8500:3502/live/cid=443
-TVBS新闻台HD,vjms://58.215.133.161:8500:3502/live/cid=348
-年代新闻,vjms://58.215.133.161:8500:3502/live/cid=455
