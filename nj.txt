@@ -187,6 +187,7 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551#rtmp://161.202.204.248:1935/sat/tv55
 东森超视,rtmp://161.202.204.248/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
 东森财经新闻,rtmp://161.202.204.248/sat/tv571#rtmp://161.202.204.248:1935/sat/tv571#rtmp://59.124.75.153/sat/tv571
 MoMo综合,rtmp://161.202.204.248/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761#rtmp://59.124.75.153/sat/tv761
+卫视中文,http://50.7.61.148:30080/Entry/starchinese
 原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
 民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
@@ -285,12 +286,3 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
-NOW新闻,mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts 
-民视,mitv://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts 
-民视新闻,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts 
-台视,mitv://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts 
-中视,mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts 
-华视,mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts 
-台湾|中视高清,mitv://198.255.74.57:12196/5f0601cd0008eb0db978c6d5b0fdabde.ts
-台湾|中视新闻台,mitv://198.255.74.57:12196/5f0601cd000811f5b978c69d42b61f5b.ts
-台湾|公视高清,mitv://198.255.74.57:12196/5f0601cd00073caab978c667d5b966a8.ts
