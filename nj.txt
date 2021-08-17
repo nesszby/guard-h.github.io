@@ -84,6 +84,10 @@ SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3
 SiTV欢笑剧场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227114/index.m3u8
 SiTV游戏风云,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
 SiTV生活时尚,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
+求索动物,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/1/index.m3u8?fmt=ts2hls
+求索生活,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/1/index.m3u8?fmt=ts2hls
+求索科学,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/1/index.m3u8?fmt=ts2hls
+求索记录,http://111.0.93.27/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/1/index.m3u8?fmt=ts2hls
 冬奥纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 纪实人文 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 金鹰纪实 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
@@ -285,3 +289,23 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
+国家地理频道,p2p://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66
+探索频道,p2p://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289
+纬来综合台,p2p://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289
+卫视中文,p2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44
+东森综合台,p2p://147.135.39.171:9906/6055b59e000cf7e99c33cc6850ff1614
+超视,p2p://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e
+中天综合台,p2p://147.135.39.171:9906/5e7cf98b000f2c2a3dc37fc6663e245
+壹电视新闻台,p2p://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c
+年代新闻,p2p://147.135.39.171:9906/5f200a9d0005e6293c70bf411b7c130c
+东森新闻台,p2p://147.135.39.171:9906/605ee0bd000cfc67c004521118d80577
+中天新闻台,p2p://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05
+民视新闻台,p2p://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1
+三立新闻台,p2p://147.135.39.171:9906/6055bfa5000843f59c5af68771d33985
+TVBS新闻台,p2p://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2
+TVBS,p2p://147.135.39.171:9906/5f2c407d000f150b6c2346e221a0451b
+东森财经新闻台,p2p://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55
+非凡新闻台,p2p://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b
+纬来体育台,p2p://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4
+ELEVEN体育1台,p2p://147.135.39.171:9906/60575f0c000365c4a2b19fa770033e71
+FOX,p2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5
