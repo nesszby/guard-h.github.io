@@ -289,3 +289,11 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
+衛視電影台,p2p://ns2.hellotvvod.com:9906/648b9d2c93b048309585465f5bd6f97c
+東森電影台,p2p://ns2.hellotvvod.com:9906/294a2b1d17d04414893ef2f034aa395b
+緯來電影台,p2p://ns2.hellotvvod.com:9906/4807ee2575b24f49b1dc07fa1d279c37
+龍祥電影,p2p://ns2.hellotvvod.com:9906/2be34003cbe745728c5c407689eb53f6
+HBO,p2p://ns2.hellotvvod.com:9906/3918dd5b08f84f1e95cfebeb6463ba60
+東森洋片台,p2p://ns2.hellotvvod.com:9906/dcfc6498425b4246a268c874e8f6e187
+AXN,p2p://ns2.hellotvvod.com:9906/d4abc5c44c604a54904645f9f6a0afb6
+香蕉台,p2p://ns2.hellotvvod.com:9906/0dea7c9756fd4b2d8ab2b3680e1c7670
