@@ -4,7 +4,7 @@ CCTV2财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil#ht
 CCTV3综艺,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
 CCTV4国际,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226968/index.m3u8
 CCTV5体育,http://39.135.34.150:8080/000000001000/1000000001000004794/1.m3u8?xtkg#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv5/HD-8000k-1080P-cctv5
-CCTV5体育+,http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
+CCTV5体育+,http://39.134.39.39/TVOD/88888888/224/3221226253/index.m3u8#http://39.134.24.24/PLTV/88888888/224/3221225718/index.m3u8#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv05plus/HD-8000k-1080P-cctv05plus
 CCTV6电影,http://39.135.34.150:8080/000000001000/1000000001000016466/1.m3u8?xtkg#http://183.207.248.71:80/cntv/live1/cctv-6/cctv-6
 CCTV7军事,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226803/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225805/index.m3u8
 CCTV8电视剧,http://39.135.34.150:8080/000000001000/1000000001000003736/1.m3u8?xtkg#http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv8/HD-8000k-1080P-cctv8
@@ -74,7 +74,6 @@ CCTV17农业,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?x
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-中华美食,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-zhmeishi/SD-4000k-576P-zhmeishi
 黑莓动画,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
 黑莓电竞,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
 SiTV动漫秀场,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
