@@ -285,3 +285,5 @@ Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/e44ec75147104478a371c58d678a22dc
+探索頻道,mitv://ns2.hellotvvod.com:9906/f60be038c7b74b7fbc2c4f08581b6e23
