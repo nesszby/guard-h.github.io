@@ -307,4 +307,19 @@ Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
 國家地理頻道,mitv://ns2.hellotvvod.com:9906/e44ec75147104478a371c58d678a22dc
-探索頻道,mitv://ns2.hellotvvod.com:9906/f60be038c7b74b7fbc2c4f08581b6e23
+探索頻道,mitv://ns2.hellotvvod.com:9906/f60be038c7b74b7fbc2c4f08581b6e23电影一台,P2p://198.255.74.56:41196/600dbef0000e5baf7bdc6ca55c2375ae.ts
+TVB经典(备),P2p://198.255.74.56:41196/600dbe6c000826cb7bda676ff07e3886.ts
+TVB星河,P2p://198.255.74.56:41196/600dbe6c000a09ce7bda67eaa6faad0d.ts
+TVB华丽,P2p://198.255.74.56:41196/600dbe6c00091c657bda67ad0d34268a.ts
+有线体育1,P2p://198.255.74.56:41196/600dbe6c00072c687bda672f6a44c3b5.ts
+有线体育2,P2p://198.255.74.56:41196/600dbe6c00060aa47bda66e419ef777f.ts
+有线电影,P2p://198.255.74.56:41196/600dbe6c00050f1e7bda66a44ae04448.ts
+卫视卡式,P2p://198.255.74.56:41196/600dbe6c000414cd7bda66644b9635c3.ts
+凤凰电影,P2p://198.255.74.56:41196/600dbf030000fe217bdcb371b4e6a6c4.ts
+台視,tvbus://7t2ivyBLp7Dy8j2NQdnHPxrJRLs8qUDAQjKUiZmAD7y3k6QtTb
+中視 HD,P2p://198.255.74.56:41196/600dbef00008c37a7bdc6b376b306ae7.ts
+中視经典,P2p://198.255.74.56:41196/600dbef00009aa5f7bdc6b72b5b0fef0.ts
+中視新聞臺,P2p://198.255.74.56:41196/600dbef00007d2637bdc6af95972d9a1.ts
+东森超视,P2p://198.255.74.56:41196/600dbe6c0003a49a7bda6647cd792d55.ts
+公視 HD,P2p://198.255.74.56:41196/600dbef00006e2e47bdc6abca4940fbc.ts
+民視臺灣臺,P2p://198.255.74.56:41196/600dbef00005b3307bdc6a6e6681d66e.ts
