@@ -265,7 +265,6 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 花园4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 
 测试,#genre#
-
 TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 三立i新闻,http://seb.sason.top/sc/slinews_fhd.m3u8
 三立Live,http://seb.sason.top/sc/sllive_fhd.m3u8
@@ -283,9 +282,6 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 民视综艺,http://seb.sason.top/ptv/ftv.php?id=zy
 民视旅游,http://seb.sason.top/ptv/ftv.php?id=ly
 无线翡翠,http://61.238.6.49:8000/bysid/1
-Astro全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-Astro双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-Astro小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTVsix,http://61.238.6.49:8000/bysid/96
 法国·24新闻,http://61.58.60.230:9319/live/131.m3u8
