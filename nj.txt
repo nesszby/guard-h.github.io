@@ -146,15 +146,15 @@ CCTV-电视指南,
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
-无线翡翠,https://cdn.hkdtmb.com/hls/81/index.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
-无线新闻,https://cdn.hkdtmb.com/hls/83/index.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-无线明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线 J2,https://cdn.hkdtmb.com/hls/82/index.m3u8#http://livetv.dnsfor.me:80/channel.19.m3u8
-无线财经资讯,https://cdn.hkdtmb.com/hls/85/index.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+无线翡翠,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
+无线新闻,http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+无线明珠,http://185.207.176.189:8080/channels/tv-84/playlist.m3u8#https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+无线 J2,http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://livetv.dnsfor.me:80/channel.19.m3u8
+无线财经,http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 有线新闻,https://api.leonardpark.dev/live/icable/109
 有线财经资讯,https://api.leonardpark.dev/live/icable/108
-ViuTV,https://cdn.hkdtmb.com/hls/99/index.m3u8#http://livetv.dnsfor.me:80/channel.20.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
-ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
+ViuTV,http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://livetv.dnsfor.me:80/channel.20.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
+ViuTV6,http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#https://cdn.hkdtmb.com/hls/31/index.m3u8#http://livetv.dnsfor.me:80/channel.1.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8#https://cdn.hkdtmb.com/hls/32/index.m3u8#http://livetv.dnsfor.me:80/channel.2.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
@@ -277,6 +277,35 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 靖天卡通,http://61.58.60.230:9319/live/207.m3u8
 靖天映画,http://61.58.60.230:9319/live/243.m3u8
 cnex纪实,http://61.58.60.230:9319/live/257.m3u8
+卫视洋片,http://125.227.210.37:18789/VideoInput/play.ts
+东森洋片,http://125.227.210.37:18685/VideoInput/play.ts
+Arirang,http://125.227.210.37:8933/VideoInput/play.ts
+年代新闻,http://125.227.210.37:11055/VideoInput/play.ts
+FX HD,http://125.227.210.37:13498/VideoInput/play.ts
+迪士尼,http://125.227.210.37:14250/VideoInput/play.ts
+中天综合,http://125.227.210.37:14583/VideoInput/play.ts
+非凡新闻,http://125.227.210.37:15078/VideoInput/play.ts
+三立新闻,http://125.227.210.37:15589/VideoInput/play.ts
+三立台湾,http://125.227.210.37:15714/VideoInput/play.ts
+中天娱乐,http://125.227.210.37:15796/VideoInput/play.ts
+CN卡通,http://125.227.210.37:16671/VideoInput/play.ts
+东森戏剧,http://125.227.210.37:17524/VideoInput/play.ts
+纬来体育,http://125.227.210.37:18358/VideoInput/play.ts
+TLC旅游,http://125.227.210.37:19020/VideoInput/play.ts
+彭博财经,http://125.227.210.37:18184/VideoInput/play.ts
+NHKWORLD,http://125.227.210.37:8931/VideoInput/play.ts
+YTN,http://125.227.210.37:8932/VideoInput/play.ts
+HBO,http://125.227.210.37:16027/VideoInput/play.ts
+CNBC,http://125.227.210.37:16415/VideoInput/play.ts
+DW,http://125.227.210.37:8934/VideoInput/play.ts
+DW德语,http://125.227.210.37:8935/VideoInput/play.ts
+RT,http://125.227.210.37:8936/VideoInput/play.ts
+TV5亚洲,http://125.227.210.37:8937/VideoInput/play.ts
+半岛新闻,http://125.227.210.37:8938/VideoInput/play.ts
+NHKBS1,http://125.227.210.37:8939/VideoInput/play.ts
+NHKBSP,http://125.227.210.37:8940/VideoInput/play.ts
+BBC WN,http://125.227.210.37:10246/VideoInput/play.ts
+CNN,http://125.227.210.37:10797/VideoInput/play.ts
 旺台湾,http://61.58.60.230:9319/live/80.m3u8
 公用频道1,http://61.58.60.230:9319/live/2.m3u8
 公用频道2,http://61.58.60.230:9319/live/3.m3u8
@@ -304,6 +333,9 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96
 韩国·阿里郎,http://61.58.60.230:9319/live/130.m3u8
 大爱一台,http://61.58.60.230:9319/live/10.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
+三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
+
+测试,#genre#
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
 驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
@@ -312,4 +344,3 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96
 松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
 彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
 彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
