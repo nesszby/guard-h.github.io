@@ -306,3 +306,12 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96
 大爱一台,http://61.58.60.230:9319/live/10.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
 now新闻台,p8p://0198.02686.cc:16871/5d1a69e80008b03211bea99a766f4b8a
+潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+彩虹E台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹電影,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
