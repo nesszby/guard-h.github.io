@@ -43,7 +43,7 @@ CCTV17农业,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?x
 内蒙古卫视,http://live.m2oplus.nmtv.cn/1/sd/live.m3u8#http://183.207.248.71:80/cntv/live1/n-neimenggustv/n-neimenggustv
 青海卫视,http://live.geermurmt.com/qhws/sd/live.m3u8#http://183.207.248.71:80/cntv/live1/n-qinghaistv/n-qinghaistv
 甘肃卫视,http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-厦门卫视,http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
+厦门卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil#http://39.135.53.194/ott.fj.chinamobile.com/PLTV/88888888/224/3221226781/index.m3u8#rtsp://183.252.176.54:554/PLTV/88888888/224/3221226124/10000100000000060000000002358105_0.smil
 四川卫视,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227006/index.m3u8#http://39.135.34.150:8080/000000001000/1000000002000016825/1.m3u8?xtkg
 山西卫视,http://183.207.248.71:80/cntv/live1/n-shanxistv/n-shanxistv
 云南卫视,rtsp://183.252.166.199/PLTV/88888888/224/3221226108/10000100000000060000000002310150_0.smil
@@ -74,18 +74,16 @@ CCTV17农业,http://39.135.34.150:8080/000000001000/1000000005000056836/1.m3u8?x
 魅力足球,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
 五星体育,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
 新视觉,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
-黑莓动画,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225878/index.m3u8
-黑莓电竞,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8
-SiTV动漫秀场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
-SiTV极速汽车,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8
-SiTV欢笑剧场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
-SiTV游戏风云,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
-SiTV全纪实,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV都市剧场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV幸福彩,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-SiTV生活时尚,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
+动漫秀场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226141/index.m3u8
+极速汽车,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227017/index.m3u8
+欢笑剧场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/index.m3u8
+游戏风云,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227033/index.m3u8
+全纪实,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+都市剧场,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+幸福彩,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+生活时尚,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227029/index.m3u8
 冬奥纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
-纪实人文 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
+纪实人文 ,http://112.47.23.196/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226958/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225946/index.m3u8
 金鹰纪实 ,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226975/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226937/index.m3u8
 CCTV-中 学 生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 CCTV-老 故 事,http://39.134.24.220/PLTV/88888888/224/3221225881/index.m3u8#http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls#http://223.110.242.133:6610/gitv/live1/G_LAOGUSHI/1.m3u
@@ -334,6 +332,31 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96
 大爱一台,http://61.58.60.230:9319/live/10.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
 三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
+民视,p2p://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7
+台视,p2p://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635
+中视,p2p://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868
+华视,p2p://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905
+公视,p2p://147.135.39.171:9906/6055ab9d000b82ee9c0cb82226d34c11
+国家地理频道,p2p://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66
+探索频道,p2p://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289
+纬来综合台,p2p://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289
+卫视中文,p2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44
+东森综合台,p2p://147.135.39.171:9906/6055b59e000cf7e99c33cc6850ff1614
+超视,p2p://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e
+中天综合台,p2p://147.135.39.171:9906/5e7cf98b000f2c2a3dc37fc6663e245
+壹电视新闻台,p2p://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c
+年代新闻,p2p://147.135.39.171:9906/5f200a9d0005e6293c70bf411b7c130c
+东森新闻台,p2p://147.135.39.171:9906/605ee0bd000cfc67c004521118d80577
+中天新闻台,p2p://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05
+民视新闻台,p2p://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1
+三立新闻台,p2p://147.135.39.171:9906/6055bfa5000843f59c5af68771d33985
+TVBS新闻台,p2p://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2
+TVBS,p2p://147.135.39.171:9906/5f2c407d000f150b6c2346e221a0451b
+东森财经新闻台,p2p://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55
+非凡新闻台,p2p://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b
+纬来体育台,p2p://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4
+ELEVEN体育1台,p2p://147.135.39.171:9906/60575f0c000365c4a2b19fa770033e71
+FOX,p2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5
 
 测试,#genre#
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
