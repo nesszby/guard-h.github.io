@@ -278,7 +278,6 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 cnex纪实,http://61.58.60.230:9319/live/257.m3u8
 卫视洋片,http://125.227.210.55:18789/VideoInput/play.ts#http://125.227.210.37:18789/VideoInput/play.ts
 东森洋片,http://125.227.210.55:18685/VideoInput/play.ts#http://125.227.210.37:18685/VideoInput/play.ts
-Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
 年代新闻,http://125.227.210.55:11055/VideoInput/play.ts#http://125.227.210.37:11055/VideoInput/play.ts
 FX HD,http://125.227.210.55:13498/VideoInput/play.ts#http://125.227.210.37:13498/VideoInput/play.ts
 迪士尼,http://125.227.210.55:14250/VideoInput/play.ts#http://125.227.210.37:14250/VideoInput/play.ts
@@ -291,6 +290,7 @@ CN卡通,http://125.227.210.55:16671/VideoInput/play.ts#http://125.227.210.37:16
 纬来体育,http://125.227.210.55:18358/VideoInput/play.ts#http://125.227.210.37:18358/VideoInput/play.ts
 TLC旅游,http://125.227.210.55:19020/VideoInput/play.ts#http://125.227.210.37:19020/VideoInput/play.ts
 彭博财经,http://125.227.210.55:18184/VideoInput/play.ts#http://125.227.210.37:18184/VideoInput/play.ts
+Arirang,http://125.227.210.55:8933/VideoInput/play.ts#http://125.227.210.37:8933/VideoInput/play.ts
 NHKworld,http://125.227.210.55:8931/VideoInput/play.ts#http://125.227.210.37:8931/VideoInput/play.ts
 YTN,http://125.227.210.55:8932/VideoInput/play.ts#http://125.227.210.37:8932/VideoInput/play.ts
 HBO,http://125.227.210.55:16027/VideoInput/play.ts#http://125.227.210.37:16027/VideoInput/play.ts
@@ -300,9 +300,9 @@ DW德语,http://125.227.210.55:8935/VideoInput/play.ts#http://125.227.210.37:893
 RT,http://125.227.210.55:8936/VideoInput/play.ts#http://125.227.210.37:8936/VideoInput/play.ts
 TV5亚洲,http://125.227.210.55:8937/VideoInput/play.ts#http://125.227.210.37:8937/VideoInput/play.ts
 半岛新闻,http://125.227.210.55:8938/VideoInput/play.ts#http://125.227.210.37:8938/VideoInput/play.ts
-NHKBS1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
-NHKBSP,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
-BBC WN,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
+NHKbs1,http://125.227.210.55:8939/VideoInput/play.ts#http://125.227.210.37:8939/VideoInput/play.ts
+NHKbsp,http://125.227.210.55:8940/VideoInput/play.ts#http://125.227.210.37:8940/VideoInput/play.ts
+BBCworld,http://125.227.210.55:10246/VideoInput/play.ts#http://125.227.210.37:10246/VideoInput/play.ts
 CNN,http://125.227.210.55:10797/VideoInput/play.ts#http://125.227.210.37:10797/VideoInput/play.ts
 旺台湾,http://61.58.60.230:9319/live/80.m3u8
 公用频道1,http://61.58.60.230:9319/live/2.m3u8
@@ -331,32 +331,6 @@ ViuTVsix,http://61.238.6.49:8000/bysid/96
 韩国·阿里郎,http://61.58.60.230:9319/live/130.m3u8
 大爱一台,http://61.58.60.230:9319/live/10.m3u8
 大爱二台,http://61.58.60.230:9319/live/191.m3u8
-三立台湾,http://125.227.210.55:15714/VideoInput/play.ts
-民视,p2p://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7
-台视,p2p://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635
-中视,p2p://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868
-华视,p2p://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905
-公视,p2p://147.135.39.171:9906/6055ab9d000b82ee9c0cb82226d34c11
-国家地理频道,p2p://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66
-探索频道,p2p://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289
-纬来综合台,p2p://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289
-卫视中文,p2p://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44
-东森综合台,p2p://147.135.39.171:9906/6055b59e000cf7e99c33cc6850ff1614
-超视,p2p://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e
-中天综合台,p2p://147.135.39.171:9906/5e7cf98b000f2c2a3dc37fc6663e245
-壹电视新闻台,p2p://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c
-年代新闻,p2p://147.135.39.171:9906/5f200a9d0005e6293c70bf411b7c130c
-东森新闻台,p2p://147.135.39.171:9906/605ee0bd000cfc67c004521118d80577
-中天新闻台,p2p://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05
-民视新闻台,p2p://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1
-三立新闻台,p2p://147.135.39.171:9906/6055bfa5000843f59c5af68771d33985
-TVBS新闻台,p2p://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2
-TVBS,p2p://147.135.39.171:9906/5f2c407d000f150b6c2346e221a0451b
-东森财经新闻台,p2p://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55
-非凡新闻台,p2p://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b
-纬来体育台,p2p://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4
-ELEVEN体育1台,p2p://147.135.39.171:9906/60575f0c000365c4a2b19fa770033e71
-FOX,p2p://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5
 
 测试,#genre#
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
