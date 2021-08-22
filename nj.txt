@@ -177,10 +177,6 @@ TVBS新闻,rtmp://161.202.204.248/sat/tv551#rtmp://161.202.204.248:1935/sat/tv55
 东森超视,rtmp://161.202.204.248/sat/tv771#rtmp://161.202.204.248:1935/sat/tv771#rtmp://59.124.75.153/sat/tv771
 东森财经新闻,rtmp://161.202.204.248/sat/tv571#rtmp://161.202.204.248:1935/sat/tv571#rtmp://59.124.75.153/sat/tv571
 MoMo综合,rtmp://161.202.204.248/sat/tv761#rtmp://161.202.204.248:1935/sat/tv761#rtmp://59.124.75.153/sat/tv761
-卫视中文,http://50.7.61.148:30080/Entry/starchinese
-原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 寰宇新闻,http://43.129.29.150:84/pls/tv/hyxwt/%2FY2ZKNR%2B%2FSvXUmO6MZRxsbQAKWtruc3ZZ%2BZW9CpOX9QPx88diFUVEXllFVgUdoJc.flv#p5p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts#https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
 三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
@@ -266,6 +262,10 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 花园4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 
 TW代理,#genre#
+卫视中文,http://50.7.61.148:30080/Entry/starchinese
+原住民,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+民视新闻,https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8#http://210.61.56.23/hls/ftvtv/index.m3u8#https://1.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 国会频道1,http://61.58.60.230:9319/live/123.m3u8
 国会频道2,http://61.58.60.230:9319/live/124.m3u8
 幸福空间,http://61.58.60.230:9319/live/90.m3u8
