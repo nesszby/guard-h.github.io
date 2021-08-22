@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225829/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227014/index.m3u8#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225922/index.m3u8
+CCTV1综合,http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 CCTV2财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226655/40417429.smil
 CCTV3综艺,http://39.135.34.150:8080/000000001000/1000000001000011218/1.m3u8?xtkg
 CCTV4国际,http://39.135.34.150:8080/000000001000/1000000002000031664/1.m3u8?xtkg
@@ -60,7 +60,7 @@ CCTV17农业,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8#
 延边卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-yanbianstv/SD-4000k-576P-yanbianstv
 农林卫视,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-nonglinstv/SD-4000k-576P-nonglinstv
 山东教育,http://183.207.248.71:80/cntv/live1/n-shandongjy/n-shandongjy
-中国教育-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226954/index.m3u8#http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
+中国教育-1,http://183.207.248.71:80/cntv/live1/n-jiaoyutv/n-jiaoyutv
 中国教育-2,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv2/SD-4000k-576P-jiaoyutv2
 中国教育-4,http://183.207.248.71:80/cntv/live1/SD-4000k-576P-jiaoyutv4/SD-4000k-576P-jiaoyutv4
 卡酷少儿,http://183.207.248.71:80/cntv/live1/n-kakukaton/n-kakukaton
@@ -260,7 +260,7 @@ CCTV4K,
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 欢笑剧场4K,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-BesTV 4K,
+BesTV4K,
 IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 北京4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 花园4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
