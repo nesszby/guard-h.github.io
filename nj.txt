@@ -71,6 +71,10 @@ CCTV17农业,http://39.134.19.231:6410/yinhe/2/ch00000090990000001295/index.m3u8
 优漫卡通,http://183.207.248.71:80/cntv/live1/n-youmankaton/n-youmankaton
 
 数字,#genre#
+CHC家庭电影,http://60.255.49.202/live/jbtygqCHCjtyyH265_4000.m3u8
+CHC动作电影,http://60.255.49.202/live/gef.wqCHCdzdyH265_4000.m3u8
+CHC高请电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
+邵氏电影,https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 广东体育,http://116.199.5.52:8114/00000000/index.m3u8?u0026Fsv_ctype=LIVESu0026Fsv_otype=1u0026FvSeid=5abd1660af1babb4u0026Fsv_filetype=1u0026Fsv_ctype=LIVESu0026Fsv_cid=0u0026Fsv_chan_hls_se_idx=8u0026Fsv_rate_id=0u0026Fsv_SV_PARAM1=0u0026Fsv_ShiftEnable=0u0026Fsv_ShiftTsp=0u0026Provider_id=u0026Pcontent_id=u0026Fsv_CMSID=u0026Fsv_otype=1
 劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
 魅力足球,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
@@ -86,7 +90,7 @@ CCTV17农业,http://39.134.19.231:6410/yinhe/2/ch00000090990000001295/index.m3u8
 生活时尚,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
 冬奥纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
 纪实人文,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-金鹰纪实 失效,
+金鹰纪实,http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 CCTV-中 学 生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
 CCTV-老 故 事,http://39.134.24.220/PLTV/88888888/224/3221225881/index.m3u8#http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls#http://223.110.242.133:6610/gitv/live1/G_LAOGUSHI/1.m3u
 CCTV-新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m3u8
@@ -100,9 +104,9 @@ CCTV-世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CCTV-第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
 CCTV-文化精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
 CCTV-风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+CCTV-高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CCTV-发现之旅 失效,
 CCTV-精品剧场 失效,
-CCTV-高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CCTV-电视指南 失效,
 
 福建,#genre#
@@ -252,7 +256,7 @@ FS1,rtmp://161.202.204.248:1935/sat/us031
 
 超清,#genre#
 CCTV4K,
-纯享4K,
+纯享4K,http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 芒果4K,
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
