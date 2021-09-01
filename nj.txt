@@ -337,6 +337,7 @@ TVBS新闻,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 FOX电影,http://60.251.59.179:8547/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8#http://60.251.59.179:8506/xoxo.m3u8#http://60.251.59.179:8504/xoxo.m3u8
 
 测试,#genre#
+开代理无法播放,
 潘多拉完美,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
 極限電影,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
 驚艷台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
