@@ -86,20 +86,30 @@ CHC高请电影,http://60.255.49.202/live/lnwsCHC-HDH265_4000.m3u8
 欢笑剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
 游戏风云,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 全纪实,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
-都市剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+都市剧场,rtsp://183.252.166.199/PLTV/88888888/224/3221226747/45934978.smil#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
 幸福彩,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
-生活时尚,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+生活时尚,rtsp://183.252.166.199/PLTV/88888888/224/3221226749/45935750.smil#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
 冬奥纪实,http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-beijingjishi/HD-8000k-1080P-beijingjishi
-纪实人文,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
-金鹰纪实,http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
+纪实人文,rtsp://183.252.166.199/PLTV/88888888/224/3221226762/45278478.smil#http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+金鹰纪实,rtsp://183.252.166.199/PLTV/88888888/224/3221226815/57526488.smil#http://39.130.202.114:6610/gitv_live/G_JINYINGJS-HD/G_JINYINGJS-HD.m3u8
 导视,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226099/10000100000000060000000002298270_0.smil
 中国气象,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226073/10000100000000060000000002296914_0.smil
 法治天地,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226059/10000100000000060000000002296900_0.smil
 东方财经,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226057/10000100000000060000000002296898_0.smil
-金色频道,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
+金色学堂,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226056/10000100000000060000000002296897_0.smil
 七彩戏剧,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226054/10000100000000060000000002296895_0.smil
-股评汇,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
+第一财经,rtsp://183.252.166.199/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
+快乐錘钓,rtsp://183.252.166.199/PLTV/88888888/224/3221226811/57526424.smil
 港剧风云,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+陶瓷,rtsp://183.252.166.199/PLTV/88888888/224/3221226812/48629385.smil
+股评汇,rtsp://183.252.176.54:554/PLTV/88888888/224/3221226024/10000100000000060000000002296865_0.smil
+BesTv影院1,rtsp://183.252.166.199/PLTV/88888888/224/3221226757/45949783.smil
+Bestv影院2,rtsp://183.252.166.199/PLTV/88888888/224/3221226816/48629572.smil
+Bestv影院3,rtsp://183.252.166.199/PLTV/88888888/224/3221226748/45950069.smil
+Bestv影院4,rtsp://183.252.166.199/PLTV/88888888/224/3221226797/47878049.smil
+Bestv电视剧1,rtsp://183.252.166.199/PLTV/88888888/224/3221226761/45973212.smil
+Bestv电视剧2,rtsp://183.252.166.199/PLTV/88888888/224/3221226022/10000100000000060000000002296864_0.smil
+Bestv电视剧3,rtsp://183.252.166.199/PLTV/88888888/224/3221226752/45973624.smil
 Bestv动画1,rtsp://183.252.166.199/PLTV/88888888/224/3221226756/45973923.smil
 Bestv动画2,rtsp://183.252.166.199/PLTV/88888888/224/3221226917/57526342.smil
 CCTV-中 学 生,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
@@ -118,7 +128,6 @@ CCTV-风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CCTV-高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
 CCTV-发现之旅,http://39.134.24.218/PLTV/88888888/224/3221225879/index.m3u8
 CCTV-电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
-CCTV-精品剧场 失效,
 
 福建,#genre#
 福建综合,rtsp://183.252.166.199/PLTV/88888888/224/3221226826/47882539.smil
@@ -137,9 +146,6 @@ CCTV-精品剧场 失效,
 福州影视,http://live.zohi.tv/video/s10001-yspd-2/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8#http://live3.setvn.com:9098/live/fz2_1200.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8#http://live3.setvn.com:9098/live/fz3_1200.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-sepd-4/index.m3u8#http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8#http://live3.setvn.com:9098/live/fz4.m3u8
-厦门-1,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226814/1.m3u8
-厦门-2,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226777/1.m3u8
-厦门-3,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221226760/1.m3u8
 南安综合,http://natv.cnjrna.com:3000/channel/sovp/1000000000000018/video_1564_none.m3u8
 晋江综合,http://stream.jinjiang.tv/1/sd/live.m3u8#http://stream.jinjiang.tv/1/sd/live.m3u8?_upt=7738cbdd1569250965
 漳州,http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
@@ -149,9 +155,6 @@ CCTV-精品剧场 失效,
 三明公共频道,http://stream.smntv.cn/smtv2/sd/live.m3u8
 宁德综合,http://live.nddst.com/ndtv1/720P/live.m3u8#http://live.nddst.com/ndtv1/playlist.m3u8
 宁德公共,http://live.nddst.com/ndtv2/720P/live.m3u8#http://live.nddst.com/ndtv2/playlist.m3u8
-宁德新闻,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226631/1.m3u8
-南平-1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221227066/index.m3u8
-南平-2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226956/index.m3u8
 
 港台,#genre#
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
@@ -251,16 +254,16 @@ FS1,rtmp://161.202.204.248:1935/sat/us031
 印尼·TIC印尼频,https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 超清,#genre#
-CCTV4K,
-纯享4K,http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-芒果4K,
-爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
-南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 欢笑剧场4K,rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
-BesTV4K,
+纯享4K,http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
 北京4K,http://221.179.217.94/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8
 花园4K,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
+爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
+芒果4K,
+CCTV4K,
+BesTV4K,
 
 TW代理,#genre#
 卫视中文,http://50.7.61.148:30080/Entry/starchinese
