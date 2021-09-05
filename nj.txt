@@ -253,6 +253,7 @@ FS1,rtmp://161.202.204.248:1935/sat/us031
 印尼·TIC印尼频,https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000/chunklist.m3u8
 
 超清,#genre#
+CCTV4K,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 欢笑剧场4K,rtsp://183.252.166.199/PLTV/88888888/224/3221226717/45278772.smil#http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 纯享4K,http://111.12.101.23:6610/PLTV/77777777/224/3221225726/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpSessionId=SLB2046220190906022827233263&m3u8_level=2
@@ -261,7 +262,6 @@ IPTV4K,http://124.232.231.246:6610/000000001001/201500000218/index.m3u8?IASHttpS
 爱上4K,http://39.134.24.24/PLTV/88888888/224/3221226005/index.m3u8#http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
 南国都市4K,https://www.navchina.cf/IPTV/guangzhou.php?id=ngds
 芒果4K,
-CCTV4K,
 BesTV4K,
 
 TW代理,#genre#
