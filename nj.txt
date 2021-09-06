@@ -179,6 +179,16 @@ RTHK直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011
 天映经典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
 天映电影,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+东森幼幼,http://www.1314lm.com/mylive/102/2025/index.m3u8
+卫视中文,http://www.1314lm.com/mylive/102/2031/index.m3u8
+年代新闻,http://www.1314lm.com/mylive/102/2050/index.m3u8
+非凡新闻,http://www.1314lm.com/mylive/102/2058/index.m3u8
+卫视电影,http://www.1314lm.com/mylive/102/2061/index.m3u8
+东森电影,http://www.1314lm.com/mylive/102/2062/index.m3u8
+纬来电影,http://www.1314lm.com/mylive/102/2063/index.m3u8
+龙祥电影,http://www.1314lm.com/mylive/102/2064/index.m3u8
+HBO亚洲,http://www.1314lm.com/mylive/102/2065/index.m3u8
+CINEMAX电影,http://www.1314lm.com/mylive/102/2070/index.m3u8
 民视,rtmp://161.202.204.248/sat/tv051#rtmp://161.202.204.248:1935/sat/tv051#rtmp://59.124.75.153/sat/tv051
 台视,rtmp://161.202.204.248/sat/tv071#rtmp://161.202.204.248:1935/sat/tv071#rtmp://59.124.75.153/sat/tv071
 中视,rtmp://161.202.204.248/sat/tv091#rtmp://161.202.204.248:1935/sat/tv091#rtmp://59.124.75.153/sat/tv091
@@ -379,4 +389,4 @@ Asian,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b
 Anal,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 
 测试,#genre#
-东森电影,http://www.1314lm.com/mylive/102/2062/index.m3u8
+
