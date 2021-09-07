@@ -181,7 +181,7 @@ RTHK直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011
 TVB星河,http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 国会频道1,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv1.m3u8
 国会频道2,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/parliamentarytv2.m3u8
-寰宇新闻台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+寰宇新闻,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
 东森幼幼,http://www.1314lm.com/mylive/102/2025/index.m3u8
 卫视中文,http://www.1314lm.com/mylive/102/2031/index.m3u8
 年代新闻,http://www.1314lm.com/mylive/102/2050/index.m3u8
@@ -387,7 +387,7 @@ Blowjob,p5p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
 Asian,p5p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b
 Anal,p5p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 
-测试,#genre#
+CHN ip播放,#genre#
 HBO亚洲,p5p://45.92.126.18:9906/604338a40001163206880e5297cc95ab.ts
 探索亚洲,p5p://45.92.126.18:9906/60433ee00002fb7906a0692e6558cb55.ts
 探索动力,p5p://45.92.126.18:9906/604948f700077c3f1457e93ef52bbdb9.ts
@@ -487,11 +487,11 @@ TVB星河,p5p://45.92.126.18:9906/60463cd5000f308a087086672166e0af.ts
 无线财经,p5p://45.92.126.18:9906/604356f80000c88a06fe865e7d380324.ts
 无线翡翠,p5p://45.92.126.18:9906/604357750001033b07006eb55a3e9a7d.ts
 
-测试-2,#genre#
+测试,#genre#
 CCTV4国际欧洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctveurope_2/index.m3u8
 CCTV4国际美洲,http://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvamerica_2_hd/index.m3u8
 广东综艺4K,http://111.161.121.104/nclive.grtn.cn/4K/sd/live.m3u8
-壹新闻HD,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
+壹新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 中天新闻,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 寰宇新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twhyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 年代新聞,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twndxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
