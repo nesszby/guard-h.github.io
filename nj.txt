@@ -510,4 +510,22 @@ CCTV-新动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m
 爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-
+TVB翡翠,http://64.52.84.98:8080/fylike520/fylike520/1
+TVB明珠,http://64.52.84.98:8080/fylike520/fylike520/2
+TVB新闻,http://64.52.84.98:8080/fylike520/fylike520/3
+有线新闻,http://64.52.84.98:8080/fylike520/fylike520/4
+NOW新闻,http://64.52.84.98:8080/fylike520/fylike520/5
+Viutv,http://64.52.84.98:8080/fylike520/fylike520/6
+Viutv 6,http://64.52.84.98:8080/fylike520/fylike520/7
+TVB财经,http://64.52.84.98:8080/fylike520/fylike520/8
+TVB J2,http://64.52.84.98:8080/fylike520/fylike520/9
+港台31,http://64.52.84.98:8080/fylike520/fylike520/10
+港台32,http://64.52.84.98:8080/fylike520/fylike520/11
+有线财经,http://64.52.84.98:8080/fylike520/fylike520/12
+有线603,http://64.52.84.98:8080/fylike520/fylike520/13
+有线18,http://64.52.84.98:8080/fylike520/fylike520/14
+开电视,http://64.52.84.98:8080/fylike520/fylike520/15
+凤凰香港,http://64.52.84.98:8080/fylike520/fylike520/16
+凤凰中文,http://64.52.84.98:8080/fylike520/fylike520/17
+凤凰资讯,http://64.52.84.98:8080/fylike520/fylike520/18
+NOW爆谷,http://64.52.84.98:8080/fylike520/fylike520/25
