@@ -159,11 +159,11 @@ CCTV-电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
-无线翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://play.95xiu.com/app/203203203.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
-无线新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
-无线明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
-无线 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me:80/channel.19.m3u8
-无线财经,rtmp://125.227.67.184:1935/live/InformationDesk#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+TVB翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://play.95xiu.com/app/203203203.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
+TVB新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
+TVB明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
+TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me:80/channel.19.m3u8
+TVB财经,rtmp://125.227.67.184:1935/live/InformationDesk#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
 有线财经,https://api.leonardpark.dev/live/icable/108
 有线新闻,https://api.leonardpark.dev/live/icable/109#rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
@@ -513,22 +513,5 @@ CCTV-新动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd.m
 爱动漫,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230136/index.m3u8
 爱幼教,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230086/index.m3u8
 爱玩具,http://117.148.179.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230026/index.m3u8
-TVB翡翠,http://64.52.84.98:8080/fylike520/fylike520/1
-TVB明珠,http://64.52.84.98:8080/fylike520/fylike520/2
-TVB新闻,http://64.52.84.98:8080/fylike520/fylike520/3
-有线新闻,http://64.52.84.98:8080/fylike520/fylike520/4
-NOW新闻,http://64.52.84.98:8080/fylike520/fylike520/5
-Viutv,http://64.52.84.98:8080/fylike520/fylike520/6
-Viutv 6,http://64.52.84.98:8080/fylike520/fylike520/7
-TVB财经,http://64.52.84.98:8080/fylike520/fylike520/8
-TVB J2,http://64.52.84.98:8080/fylike520/fylike520/9
-港台31,http://64.52.84.98:8080/fylike520/fylike520/10
-港台32,http://64.52.84.98:8080/fylike520/fylike520/11
-有线财经,http://64.52.84.98:8080/fylike520/fylike520/12
-有线603,http://64.52.84.98:8080/fylike520/fylike520/13
-有线18,http://64.52.84.98:8080/fylike520/fylike520/14
-开电视,http://64.52.84.98:8080/fylike520/fylike520/15
-凤凰香港,http://64.52.84.98:8080/fylike520/fylike520/16
-凤凰中文,http://64.52.84.98:8080/fylike520/fylike520/17
-凤凰资讯,http://64.52.84.98:8080/fylike520/fylike520/18
-NOW爆谷,http://64.52.84.98:8080/fylike520/fylike520/25
+
+
