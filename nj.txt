@@ -181,7 +181,7 @@ TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#rtmp://125.2
 TVB财经,rtmp://125.227.67.184:1935/live/InformationDesk#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
 有线财经,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
-有线新闻,http://p2.weizan.cn/949709461/921771850051779251/live.m3u8#https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109#rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+有线新闻,https://www.navchina.cf/IPTV/icable.php?id=37#http://p2.weizan.cn/949709461/921771850051779251/live.m3u8#https://api.leonardpark.dev/live/icable/109#rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 有线直播,https://www.navchina.cf/IPTV/icable.php?id=38
 有线娱乐,rtmp://202.39.64.233:1935/channel/60c2f289961593122ebaf8c1?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 ViuTV,rtmp://125.227.67.184:1935/live/ViuV#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#http://livetv.dnsfor.me:80/channel.20.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
