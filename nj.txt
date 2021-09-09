@@ -166,14 +166,14 @@ CCTV电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224
 凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=2
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=1#http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8#http://www.chahaoquan.com/wz/epg/fhdl.php?id=3
-TVB翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8#https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://play.95xiu.com/app/203203203.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
+TVB翡翠,https://p2.weizan.cn/1646497941/013205559193952308/live.m3u8http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8##https://cdn.hkdtmb.com/hls/81/index.m3u8#http://185.207.176.189:8080/channels/tv-81/playlist.m3u8#http://play.95xiu.com/app/203203203.m3u8#http://livetv.dnsfor.me:80/channel.18.m3u8
 TVB新闻,https://p2.weizan.cn/1646497941/673946820532880688/live.m3u8#https://cdn.hkdtmb.com/hls/83/index.m3u8#http://185.207.176.189:8080/channels/tv-83/playlist.m3u8#http://livetv.dnsfor.me:80/channel.10.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=1#http://www.chahaoquan.com/wz/epg/tvb.php?id=3
 TVB明珠,https://cdn.hkdtmb.com/hls/84/index.m3u8#http://185.207.176.189:8080/channels/tv-84/playlist.m3u8
 TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#rtmp://125.227.67.184:1935/live/ViuTVSix#https://cdn.hkdtmb.com/hls/82/index.m3u8#http://185.207.176.189:8080/channels/tv-82/playlist.m3u8#http://livetv.dnsfor.me:80/channel.19.m3u8
 TVB财经,rtmp://125.227.67.184:1935/live/InformationDesk#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
-有线财经,https://api.leonardpark.dev/live/icable/108
-有线新闻,https://api.leonardpark.dev/live/icable/109#rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
+有线财经,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
+有线新闻,https://www.navchina.cf/IPTV/icable.php?id=37#https://api.leonardpark.dev/live/icable/109#rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 有线娱乐,rtmp://202.39.64.233:1935/channel/60c2f289961593122ebaf8c1?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 ViuTV,rtmp://125.227.67.184:1935/live/ViuV#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#http://livetv.dnsfor.me:80/channel.20.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
