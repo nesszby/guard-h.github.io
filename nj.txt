@@ -181,13 +181,13 @@ TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8#rtmp://125.2
 TVB财经,rtmp://125.227.67.184:1935/live/InformationDesk#https://cdn.hkdtmb.com/hls/85/index.m3u8#http://185.207.176.189:8080/channels/tv-85/playlist.m3u8#http://livetv.dnsfor.me:80/channel.11.m3u8#http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 有线603,https://p2.weizan.cn/1646497941/726330645979324846/live.m3u8
 有线财经,https://www.navchina.cf/IPTV/icable.php?id=38#https://api.leonardpark.dev/live/icable/108
-有线新闻,rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#https://www.navchina.cf/IPTV/icable.php?id=37#http://p2.weizan.cn/949709461/921771850051779251/live.m3u8#https://api.leonardpark.dev/live/icable/109
+有线新闻,rtmp://202.39.64.233:1935/channel/60c2d2bd961593122ebaf8b7?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D#http://p2.weizan.cn/949709461/921771850051779251/live.m3u8#https://api.leonardpark.dev/live/icable/109
 有线直播,https://www.navchina.cf/IPTV/icable.php?id=38
 有线娱乐,rtmp://202.39.64.233:1935/channel/60c2f289961593122ebaf8c1?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
 ViuTV,rtmp://125.227.67.184:1935/live/ViuV#https://cdn.hkdtmb.com/hls/99/index.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8#http://livetv.dnsfor.me:80/channel.20.m3u8#http://185.207.176.189:8080/channels/tv-99/playlist.m3u8
 ViuTV6,https://cdn.hkdtmb.com/hls/96/index.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8#http://185.207.176.189:8080/channels/tv-96/playlist.m3u8
-RTHK31,https://cdn.hkdtmb.com/hls/31/index.m3u8#http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8#http://livetv.dnsfor.me:80/channel.1.m3u8
-RTHK32,#https://cdn.hkdtmb.com/hls/32/index.m3u8#https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8http://livetv.dnsfor.me:80/channel.2.m3u8
+RTHK31,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3131&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200#https://cdn.hkdtmb.com/hls/31/index.m3u8
+RTHK32,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hk3232&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200#https://cdn.hkdtmb.com/hls/32/index.m3u8
 RTHK33,https://cdn.hkdtmb.com/hls/33/index.m3u8
 RTHK直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 香港开电视,76,https://www.navchina.cf/IPTV/icable.php?id=77#https://cdn.hkdtmb.com/hls/77/index.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8
