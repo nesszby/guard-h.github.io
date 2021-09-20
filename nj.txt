@@ -229,6 +229,7 @@ eleven体育+,rtmp://161.202.204.248/sat/md021#rtmp://161.202.204.248:1935/sat/m
 eleven体育2,rtmp://161.202.204.248/sat/md041#rtmp://161.202.204.248:1935/sat/md041#rtmp://59.124.75.153/sat/md041
 eleven体育1,rtmp://161.202.204.248/sat/tv731#rtmp://161.202.204.248:1935/sat/tv731#rtmp://59.124.75.153/sat/tv731
 爱尔达体育2,rtmp://161.202.204.248/sat/md031#rtmp://161.202.204.248:1935/sat/md031#rtmp://59.124.75.153/sat/md031
+TVB翡翠,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkjade&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 有线新闻 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=hkyxxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 壹新闻 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twyxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
 中天新闻 ,https://www.chaojidianshi.net/nzbtv/ldlive.php?id=twztxw&tonken=32d1adfdffa0760e971f8640afc08&t=1627981348&ip=172.70.147.134&u=805102200
